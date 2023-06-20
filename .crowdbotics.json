@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.1.1",
+    "cookiecutter_context": {
+      "project_name": "Delicate Glade",
+      "project_slug": "delicate_glade_dev_93176",
+      "project_dash_slug": "delicate-glade-dev-93176",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "TST-buhrckgqpg@aol.com",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
